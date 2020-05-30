@@ -8,4 +8,8 @@ public struct TestPackage {
     public func double(number num: Int) -> Int {
         return num * 2
     }
+    
+    public func triple(number num: Int) -> Int {
+        return num * 3
+    }
 }
